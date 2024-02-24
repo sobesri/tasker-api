@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AV+VkTa3wgOusTWPIuNoshKMcVKqTh7mlENnsy4s7Lw=",
+  "Source": "TaskerApi",
+  "BasePath": "_content/TaskerApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
