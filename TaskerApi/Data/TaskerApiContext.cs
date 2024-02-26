@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using TaskerApi.Models;
 
 namespace TaskerApi.Data
@@ -14,6 +10,6 @@ namespace TaskerApi.Data
         {
         }
 
-        public DbSet<TaskerApi.Models.UserTask> Task { get; set; } = default!;
+        public DbSet<UserTask> Tasks { get; set; } = default!;
     }
 }

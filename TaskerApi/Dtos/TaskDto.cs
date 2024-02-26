@@ -1,8 +1,6 @@
-﻿using System;
-
-namespace TaskerApi.Models
+﻿namespace TaskerApi.Dtos
 {
-    public class UserTask
+    public class TaskDto
     {
         public int Id { get; set; }
         public string Title { get; set; }
